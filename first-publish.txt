@@ -1,5 +1,5 @@
-Name:
-Student Id:
-email:
+Name: Brett Dickenson
+Student Id: 17158545
+email: Brett.Dickenson@mail.bcu.ac.uk
 
-An interesting fact about my summer:
+An interesting fact about my summer: Worked in a software team building apps and websites for clients.
